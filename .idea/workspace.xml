@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3eb899a-2833-4b60-896c-e0352a993905" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source_folder/Rex.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_folder/goose.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_folder/pencilbody.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pencil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PencilBody.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java4/Pencil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java4/Pencil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_folder/pencilbody.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pencil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PencilBody.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,36 +27,36 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
-          <entry key="java" value="14" />
+          <entry key="java" value="15" />
           <entry key="jpg" value="2" />
           <entry key="lwo" value="1" />
           <entry key="mtl" value="1" />
-          <entry key="obj" value="9" />
+          <entry key="obj" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
           <entry key="Image" value="2" />
-          <entry key="JAVA" value="14" />
-          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="JAVA" value="15" />
+          <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1723" />
+          <entry key="java" value="1764" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1723" />
+          <entry key="JAVA" value="1764" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Dino.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-7">
@@ -66,6 +64,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GooseAnimation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -82,7 +89,6 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>source_fol</find>
-      <find>main</find>
       <find>setOneLevelOfTowers</find>
       <find>source</find>
       <find>lines</find>
@@ -109,6 +115,7 @@
       <find>path</find>
       <find>System</find>
       <find>boat</find>
+      <find>main</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -131,6 +138,7 @@
         <option value="$PROJECT_DIR$/src/BoatAnimation.java" />
         <option value="$PROJECT_DIR$/src/Dino.java" />
         <option value="$PROJECT_DIR$/src/DinoAnimation.java" />
+        <option value="$PROJECT_DIR$/src/GooseAnimation.java" />
       </list>
     </option>
   </component>
@@ -172,7 +180,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558968576771" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558970293093" />
     <property name="last_opened_file_path" value="C:/Program Files/Java/Java3D/1.5.1/bin" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
@@ -182,8 +190,8 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Дом\IdeaProjects\java4\source_folder" />
-      <recent name="C:\Users\Дом\IdeaProjects\java4\source_folder\car" />
       <recent name="C:\Users\Дом\IdeaProjects\java4\src" />
+      <recent name="C:\Users\Дом\IdeaProjects\java4\source_folder\car" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -198,9 +206,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.GooseAnimation">
     <configuration name="Dino" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dino" />
+      <module name="java4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GooseAnimation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GooseAnimation" />
       <module name="java4" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -232,12 +247,14 @@
       <item itemvalue="Application.Pencil" />
       <item itemvalue="Application.Dino" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.GooseAnimation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GooseAnimation" />
+        <item itemvalue="Application.Pencil" />
         <item itemvalue="Application.Dino" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Pencil" />
         <item itemvalue="Application.HelloUniverse" />
       </list>
     </recent_temporary>
@@ -257,8 +274,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -267,12 +285,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.0" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39932886" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.15100671" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20637584" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32885906" />
@@ -414,6 +432,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source_folder/goose.obj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dino.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
@@ -421,6 +446,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GooseAnimation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
         </state>
       </provider>
     </entry>
